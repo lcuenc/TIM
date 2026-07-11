@@ -1,0 +1,33 @@
+{
+  "name": "inventario",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@babel/runtime": "^7.28.4",
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "csv-parse": "^6.1.0",
+    "dotenv": "^17.2.2",
+    "exceljs": "^4.4.0",
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "html5-qrcode": "^2.3.8",
+    "jsonwebtoken": "^9.0.2",
+    "node-cron": "^4.2.1",
+    "nodemailer": "^7.0.6",
+    "pg": "^8.16.3",
+    "quagga": "^0.12.1",
+    "react-minimal-pie-chart": "^9.1.1",
+    "react-qr-reader": "^3.0.0-beta-1",
+    "react-qr-scanner": "^1.0.0-alpha.11"
+  }
+}

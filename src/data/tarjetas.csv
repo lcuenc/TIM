@@ -1,0 +1,194 @@
+Codigo,NombreCompleto
+001MGIMEN,Maximiliano Gimenez
+002JGUTIE,Jonathan Gutierrez
+003LGONZA,Luciana Gonzalez
+004NGARGU,Nadia Gargiulo
+005GLAVAL,Greta Lavalle
+006JSURIA,Jonathan Suriano
+007RVIVAS,Rodrigo Vivas
+008EZARAB,Eduardo Zarabozo
+009GRAMUN,Gustavo Ramundo
+010MGRUCC,Miguel Grucci
+011FMISZK,Federico Miszkiewicz
+012DTINAG,Diamela Tinaglia
+013FREPET,Franco Repetti
+014RMUNOZ,Rodrigo MuÃ±oz
+015JCUARE,Juan Cuaresma
+016RBIANC,Ricardo Bianchimano
+017PACOST,Pablo Acosta
+018NAMARO,Nestor Amaro
+019KARANI,Kevin Aranibar
+020GARCHI,German Archilla
+021VDIAZ,Vicente Diaz
+022HGONZA,Hector Gonzalez
+023JINSAU,Juan Manuel Insaurralde
+024WJARA,Walter Jara
+025MVIGAN,Mauro Viganotti
+026NBONGI,Nestor Bongiorno
+027RBOTTI,Ricardo Botticini
+028FCAPAR,Federico Capara
+029JCARRI,Jorge Carrizo
+030PCHIAR,Pablo Chiarante
+031RJARA,Reinaldo Jara
+032JMATIN,Jonathan Matinelis
+033RSALAZ,Ricardo Salazar
+034MSANCH,MatÃ­as Sanchez
+035RSOLIZ,Rene Camacho Soliz
+036LSCHMI,Lucas Schmidt
+037EALONS,Ezequiel Alonso
+038MPEREI,Mariano Pereira
+039RACUNA,Ricardo AcuÃ±a
+040HALFAR,Hernan Alfaro
+041HHERRE,Horacio Herrera
+042JSOANE,Jorge Seoane
+043LCASTA,Luis CastaÃ±iza
+044EOJEDA,Edgardo Ojeda
+045FLEIVA,FabiÃ¡n Leiva
+046PCORIA,Paulo Coria
+047FDIACC,Fernando Di Ciaccio
+048WSILVA,Walter Silva
+049ASAVIN,Ariel Savino
+050AABALO,Axel Abalos
+051ABALAD,Ariel Balado
+052ABORGH,Gabriel Borghese
+053ACARPI,Mauro Carpinella
+054ACEGUI,Alan Ceguil
+055AFALCO,Claudio FalcÃ³n
+056ALEDES,Ezequiel Ledesma
+057ALUNA,Javier Luna
+058AMAIDA,MatÃ­as Maidana
+059AMARIN,Emilio Maringolo
+060AMEDEN,Gonzalo Meden
+061AMONTE,Cesar Montes
+062ASELIS,Ezequiel Selis
+063ATORRE,Jorge Torres
+064CCARDO,Claudio Cardoso
+065JGONZA,Jose Gonzalez
+066DHERED,Daniel Heredia
+067CJAIME,Carlos Jaime
+068CKASPA,Christian Kasparian
+069RLUKAS,Roberto Lukas
+070RPEREI,Rodolfo Pereiro
+071SROBLE,Sebastian Robles
+072RSUARE,Roberto Suarez
+073MSZAPL,Matias Szaplay
+074CTWERD,Claudio Twerdochlib
+075AURQUI,Agustin Urquia
+076DBOBBO,Damian Bobboni
+077JSILVA,Julian Silva
+078TMOTOR,Taller de Motores
+079FMARSE,Federico Marset
+080MBLAND,Maximiliano Blando
+081KSANTI,Kevin Santillan
+082GRAIMU,Gabriel Raimundo
+083MALARC,Mariano Alarcon
+084MESAIN,Mauricio Esains
+085LVALEN,Leonardo Valentini
+086DRODRI,Diego Rodriguez
+087ADMINI,Administracion
+088VENTAS,Ventas
+089RRHH,Recursos Humanos
+090COMPRA,Compras
+091COMEX,Comercio Exterior
+092MKT,Marketing
+093ALQUIL,Alquileres
+094CSSA,CSSA
+095INGENI,Ingenieria
+096PCP,PCP
+097LOGIST,Logistica
+098INFRAE,Infraestructura
+099POSTVE,Postventa
+100UNCOMP,Unidades Compresoras
+101RDM,Recepcion de Materiales
+102GRAMA,Gabriel Rama
+103NCERDA,Norberto Cerda
+104CMEZA,Charly Meza
+105HRODRI,Hernan Rodriguez
+106FMALDO,Fernando Maldonado
+107AMONDA,Agustin Mondaini
+108PCICCO,Pablo Di Cicco
+109LGOSSL,Leonardo Gossler
+110GCONDO,Gabriel Condori
+111AGELEN,Alejo Gelens
+112LCORDO,Leandro Cordoba
+113DRAMIR,Diego Ramirez
+114TPEDAC,Tomas Pedaci
+115ALMACE,Almacen
+116MEDICO,Servicio Medico
+117KARAND,Kevin Aranda
+118SISTEM,Sistemas
+119NTAPIA,Nahuel Tapia
+120REPVTA,Ventas de Repuestos
+121EZEBAL,Edwin Zeballos
+122GVAZQU,Gregorio Vazquez
+123DBRABE,Daniel Brabenec
+124LCARNE,Licer Carneiro
+125GSUARE,Guillermo Suarez Jaureguy
+126MPANDO,Mirian Pando
+127MSORBO,Matias Sorbo
+128GYLLAN,Gustavo Yllanes
+129DNUNZI,Diego De Nunzio
+130FMOUZO,Fernando Mouzo
+131MSUSIN,Matias Susino
+132TSCHWE,Tomas Schwemmer
+133LNEGRI,Lautaro Negrillo Paredes
+134CRODAS,Cristian Rodas
+135CMANZO,Carlos Manzo
+136CROGAL,Cristian Rogal
+137LGUTIE,Leonel Gutierrez
+138FPOLES,Facundo Poles
+139CDIAZ,Cesar DÃ­az
+140INVENT,Inventario
+141GTIRAD,Galo Tirado
+142CRAMIR,Cristian Ramirez
+143ASILVE,AgustÃ­n Silveira
+144FCICCO,Facundo Ciccotta 
+145MBLANC,Mauricio Blanco
+146EGORJO,Emiliano Gorjon
+147FAYALA,Fabio Ayala
+148PGALDE,Pablo Galdeano
+149FBURTO,Facundo Burtone
+150PMOIX,Patricio Moix
+151GCOPPI,German Coppis
+152SSTANG,SERGIO STANGANELLIÂ 
+153GLOPEZ,GUSTAVO LOPEZ
+154MGONZA,MARTIN GONZALEZ
+155NGIMEN,NICOLAS GIMENEZ
+156DCABEZ,DANIEL CABEZAS
+157DBALDE,DIEGO BALDESSARI
+158FALVAR,FLAVIO ALVAREZ
+159FSCHIE,FACUNDO SCHIERLOH
+160SMARTI,SEBASTIAN MARTINEZ
+161NNAVEI,NICOLAS NAVEIRO
+162LMARCU,LEANDRO MARCUZZI
+163MPIREZ,MARIO PIREZ
+164MQUISP,MARCELO QUISPE
+165CVIGLI,CLAUDIO VIGLIAROLO
+166JCABAN,JesÃºs CabaÃ±a
+167ARIVER,Alan Rivero
+168MGIMEN,Marcos Gimenez
+169HSANSO,Hernan Sansogne
+170EDELAF,Erik De La Fuente
+171SSALDI,Sebastian Saldivia
+172MMORLI,MartÃ­n Morlio
+173RSCHAF,Ricardo Schafer 
+174GDEVIT,Gonzalo Devito 
+175MLATAP,MartÃ­n Latapie
+176NRODRI,Nahuel Rodriguez
+177MSTEFE,MÃ¡ximo Stefenon
+178LCUENC,Leandro Cuenca
+179ALASTR,Alan Lastretti 
+180SSTENG,Sergio Stengel
+181SARDIZ,Santino Ardizzone
+182JROA,Joaquin Bautista Roa
+183IAVILA,Ignacio Avila
+184FVERDU,Federico Verdun
+185JMALLO,Josue Mallon
+186LDELMA,Lautaro Del Marmol
+187LORAZI,Lucas Orazi
+188LHERMI,Luciano Hermida
+189MDAGA,Marcelo Daga
+190MRUIZ,Martin Ruiz
+191NLOPEZ,Nicolas Lopez
+192MLEGAS,Mauro Legaspi
+193TRODRI,Tomas Rodriguez

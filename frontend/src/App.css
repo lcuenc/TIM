@@ -1,0 +1,49 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+  /* Integramos con Tailwind */
+  @apply bg-background text-text font-sans;
+}
+
+/* Logo */
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em rgba(34, 197, 94, 0.6)); /* Verde success */
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em rgba(239, 68, 68, 0.6)); /* Rojo error */
+}
+
+/* Animación */
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Cards */
+.card {
+  padding: 2em;
+  @apply bg-secondary rounded-xl shadow-md;
+}
+
+/* Texto extra */
+.read-the-docs {
+  color: #888;
+  @apply text-sm opacity-70;
+}

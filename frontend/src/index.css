@@ -1,0 +1,33 @@
+/* eslint-disable */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Layout full-height */
+html, body, #root {
+  height: 100%;
+  overflow-x: hidden; /* 🔒 bloquea scroll horizontal global */
+}
+
+/* Fondo y fuente global */
+body {
+  @apply bg-background text-text font-sans;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Scrollbar minimalista */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  @apply bg-primary;
+}
+::-webkit-scrollbar-thumb {
+  @apply bg-secondary rounded-md;
+}
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-primary;
+}
